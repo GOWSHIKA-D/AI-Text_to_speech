@@ -1,0 +1,15 @@
+📚 Requirements
+
+See requirements.txt
+
+👩‍💻 Author
+
+Gowshika
+
+
+---
+
+# 📦 requirements.txt
+
+```txt
+gTTS
